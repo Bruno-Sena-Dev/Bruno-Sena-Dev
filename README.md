@@ -12,7 +12,7 @@
   <img align="center" alt="Bruno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ![snake gif](https://github.com/Bruno-Sena-Dev/Bruno-Sena-Dev/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/person2017/Person2017/blob/output/github-contribution-grid-snake.gif)
  
 <div> 
   <a href="https://instagram.com/Bruno_Sena450" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
